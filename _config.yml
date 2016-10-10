@@ -12,7 +12,7 @@ title:               Testing
 tagline:             "Testing blog for editing"
 description:         Testing blog for editing.
 base-url:             "base-url"
-baseurl:             ""
+baseurl:             "blog"
 url:                 "https://douglaseck.github.io/blog"
 github:              "https://www.github.com/deck/blog"
 timezone:            UTC
