@@ -8,24 +8,16 @@ gems: [jekyll-paginate]
 paginate_path: "page:num"
 
 # Setup
-title:               Magenta
-tagline:             "Music and art generation with machine intelligence"
-description:         Magenta is a project devoted to music and art generation
-                     with machine intelligence. It is part of TensorFlow, an
-                     open source machine learning library.
+title:               Testing
+tagline:             "Testing blog for editing"
+description:         Testing blog for editing.
 base-url:             "base-url"
 baseurl:             ""
-url:                 "https://magenta.tensorflow.org"
-github:              "https://www.github.com/tensorflow/magenta"
+url:                 "https://douglaseck.github.io/blog"
+github:              "https://www.github.com/deck/blog"
 timezone:            UTC
 
 exclude: ["README.md", "OWNERS", "update_blog.sh"]
-
-# About/contact. Deprecate!
-# author:
- # name:              "Douglas Deprecate"
- # url:               "http://research.google.com/pubs/author39086.html"
- # email:             "deck@google.com"
 
 # Custom vars
 version:             0.0.1
@@ -73,4 +65,10 @@ authors:
    name: Sageev Oore
    email: sageev@google.com
    github: osageev
+  annahuang:
+   display_name: Anna Huang
+   name: Anna Huang
+   email: chengzhiannahuang@gmail.com 
+   github: annahuang
+
 
