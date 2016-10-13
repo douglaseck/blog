@@ -6,8 +6,6 @@ author: annahuang
 tags: magenta
 ---
 
-# Coconet: Counterpoint by convolution - Music score generation using deep convolutional inpainting
-
 
 [TODOs:
 * Rewrite abstract, background section
